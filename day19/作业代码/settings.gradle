@@ -1,0 +1,3 @@
+include ':app'
+include ':vitamio'
+rootProject.name = "My Application"
